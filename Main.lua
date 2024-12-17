@@ -186,6 +186,9 @@ local Apply  													= function(Model, Gender, Mode)
 			Character 											= Model
 		})
 	end
+	
+	LeftArm.Transparency = 0
+	RightArm.Transparency = 0
 
 	local Boobs 												= FindFirstChild(Body, "Boobs Motor")
 	local Dick 													= FindFirstChild(Body, "Dick Motor")
