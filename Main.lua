@@ -105,11 +105,11 @@ do
 	Downloads													= {
 		Modules													= {
 			["FX.rbxm"]											= "https://github.com/lncoognito/ROBLOX/raw/main/Boobs/Modules/FX.rbxm",
-			["Apply.rbxm"]										= "https://github.com/SecretCodeByMe/RBObs/blob/main/Apply.rbxm",
+			["Apply.rbxm"]										= "https://github.com/SecretCodeByMe/RBObs/raw/main/Apply.rbxm",
 			["Gender.rbxm"]										= "https://github.com/lncoognito/ROBLOX/raw/main/Boobs/Modules/Gender.rbxm",
 			
 			["Spring.rbxm"]										= "https://github.com/lncoognito/ROBLOX/raw/main/Boobs/Modules/Spring.rbxm",
-			["Assets.rbxm"]										= "https://github.com/SecretCodeByMe/RBObs/blob/main/Assets.rbxm",
+			["Assets.rbxm"]										= "https://github.com/SecretCodeByMe/RBObs/raw/main/Assets.rbxm",
 		},
 
 		["Nipple"]												= "https://github.com/lncoognito/ROBLOX/raw/main/Boobs/Assets/Nipple.png",
